@@ -1,3 +1,3 @@
-# Redux Template
+# Taskmaster
 
-A sample React and Redux application for teaching React and Redux.
+Basically a to-do list. Shh.
